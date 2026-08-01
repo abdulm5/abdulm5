@@ -27,7 +27,6 @@ I'm a UC Berkeley student studying **Applied Mathematics, Data Science, and Comp
 
 - **Avocado** *(private research collaboration)* — leading the durability track, testing corrigibility and jailbreak durability in fine-tuned LLMs.
 - **[Safety Invariance](https://github.com/abdulm5/safety-invariance)** — measuring whether FP16, INT8, and NF4 quantization preserve the safety decisions of tool-using agents.
-- **Anketa** — building Python NLP pipelines, REST microservices, and Swift-based iOS features as a software engineering intern.
 
 ## 📄 Recent Highlight
 

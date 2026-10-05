@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Reliable_Agents-003262?style=flat-square" alt="Reliable Agents">
 </p>
 
-I'm a UC Berkeley student studying **Applied Mathematics, Data Science, and Computer Science**. I build evaluation systems for language models and tool-using agents, with a focus on whether safety behavior survives deployment pressure.
+I'm a UC Berkeley student studying **Applied Mathematics and Computer Science**. I build evaluation systems for language models and tool-using agents, with a focus on whether safety behavior survives deployment pressure.
 
 > **My focus:** the gap between an AI system that looks safe on average and one whose individual decisions remain dependable under real-world constraints.
 
